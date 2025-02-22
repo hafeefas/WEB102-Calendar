@@ -1,3 +1,8 @@
+# This is where my Codepath Calendar site is stored!
+
+As a tech fellow for Web102, I mentor students on web development when needed, providing guidance and answering questions on their projects. I make sure to complete their assignments a day or a few days before they are due, so I’m always fully prepared to assist. My role also involves helping them troubleshoot any issues they might encounter while coding, offering resources, and sharing best practices. It’s incredibly fulfilling to support others in their learning journey while also refining my own skills.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
